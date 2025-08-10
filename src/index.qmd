@@ -1,6 +1,6 @@
 ---
 title: "Video as data & documentation"
-subtitle: "The PLAY Project"
+subtitle: "The PLAY Project & Databrary.org"
 author: "Rick Gilmore"
 ---
 
@@ -13,16 +13,26 @@ author: "Rick Gilmore"
 ![](https://www.anhourinthelife.org/img/PLAY-sites_collecting.png){fig-align="center"}
 :::
 ::: {.column width=50%}
-- *n*=900+ mother-child dyads
-- 1 hour natural play, 5 min structured play, video tour of home, questionnaires
+- What do mothers and their infants actually **do** when they are together at home?
+- 900+ dyads
+- 30+ sites
+- 12, 18-, & 24-month-olds
 :::
 ::::
 
 ---
 
-### Full protocol openly shared
+### Full collection, coding, QA protocol openly shared
 
 ![<https://play-project.org>](include/img/play-project-dot-org.png){fig-align="center"}
+
+---
+
+![Figure 3 from @Soska2021-mh](include/img/soska-2021-fig-3.png){fig-align="center"}
+
+---
+
+![Figure 1 from @Soska2021-mh](include/img/soska-2021-fig-1.png){fig-align="center"}
 
 ---
 
@@ -31,5 +41,14 @@ author: "Rick Gilmore"
 ![](include/img/discover-more-faster.png)
 
 [^1]: With explicit permission, only among authorized researchers.
+
+## Images and video are essential to the study of *behavior*
+
+- Can't really *see* thoughts or feelings
+- Just their manifestations in behavior or physiology
+
+---
+
+![[@Gilmore2017-wd]](include/img/gilmore-adolph-nat-hum-beh-2017.png)
 
 ## References
