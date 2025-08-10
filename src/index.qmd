@@ -1,0 +1,35 @@
+---
+title: "Video as data & documentation"
+subtitle: "The PLAY Project"
+author: "Rick Gilmore"
+---
+
+## {background-video="include/vid/PLAY-parents-noaudio.mp4"}
+
+## Play & Learning Across a Year (PLAY)
+
+:::: {.columns}
+::: {.column width=50%}
+![](https://www.anhourinthelife.org/img/PLAY-sites_collecting.png){fig-align="center"}
+:::
+::: {.column width=50%}
+- *n*=900+ mother-child dyads
+- 1 hour natural play, 5 min structured play, video tour of home, questionnaires
+:::
+::::
+
+---
+
+### Full protocol openly shared
+
+![<https://play-project.org>](include/img/play-project-dot-org.png){fig-align="center"}
+
+---
+
+### All data shared[^1] on Databrary.org
+
+![](include/img/discover-more-faster.png)
+
+[^1]: With explicit permission, only among authorized researchers.
+
+## References

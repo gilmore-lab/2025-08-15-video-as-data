@@ -1,0 +1,15 @@
+format:
+  revealjs:
+    footer: "Video as data & documentation"
+    slide-number: true
+    fig-align: center
+    logo: https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg
+    bibliography: [include/bib/open-sci.bib, include/bib/bootcamp-2025.bib]
+    csl: include/bib/apa.csl
+    code-fold: true
+    code-tools: true
+    chalkboard: true
+    theme: [default, include/css/psu.scss]
+knitr:
+  opts_chunk:
+    fig.path: include/fig/ 
